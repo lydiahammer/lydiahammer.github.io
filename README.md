@@ -16,3 +16,7 @@ This is all configured so you only need to edit the source files in Quarto (.qmd
 1. Once your repo is created, remember to update the links to your GitHub repo in _quarto.yml, replacing every instance 'your_name'.
 
 1. The first time you publish to your repo use this command line string `quarto publish gh-pages` in the vs code terminal.
+
+
+### TEST - Hi my name is Lydia Hammer. I'm a senior at BYU-I studying Business Analytics. I enjoy
+### being outside and spending time with my husband, friends and family.
